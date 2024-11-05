@@ -1,2 +1,5 @@
 streamlit
 openai
+keras-nlp
+keras
+kagglehub
